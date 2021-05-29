@@ -17,7 +17,7 @@
         },
         { 
             name:'University of Informatics Science',
-            uri: 'http://localhost:4000/ld/'  //Publicacion del catalogo
+            uri: 'http://localhost:4000/ld/'  
         },
         {
             name:'University of Havana',
