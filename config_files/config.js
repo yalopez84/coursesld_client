@@ -1,5 +1,4 @@
 module.exports = {
-    hostname:'fffffff',
     universities: [        
         {
             name:'Central University Marta Abreu de Las Villas',
