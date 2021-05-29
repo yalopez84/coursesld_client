@@ -1,4 +1,4 @@
-## coursesld_client 📘
+## coursesld_client 🎯
 
 #### Dependencies
  -[rawdata_api](https://github.com/yalopez84/rawdata_api "rawdata_api")
